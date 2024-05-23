@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/add-more-fields-dynamically-in-form/static/css/main.31d6cfe0.css",
+    "main.js": "/add-more-fields-dynamically-in-form/static/js/main.48bec48d.js",
+    "static/js/453.cf0f4910.chunk.js": "/add-more-fields-dynamically-in-form/static/js/453.cf0f4910.chunk.js",
+    "index.html": "/add-more-fields-dynamically-in-form/index.html",
+    "main.48bec48d.js.map": "/add-more-fields-dynamically-in-form/static/js/main.48bec48d.js.map",
+    "453.cf0f4910.chunk.js.map": "/add-more-fields-dynamically-in-form/static/js/453.cf0f4910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.48bec48d.js"
+  ]
+}
